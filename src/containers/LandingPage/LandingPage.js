@@ -64,7 +64,7 @@ export const LandingPageComponent = props => {
           <ul className={css.sections}>
             <li className={css.section}>
               <div className={css.sectionContentFirstChild}>
-                <iframe class="landing-body__iframe" height="450" src="https://widget.atvertalatvija.manabalss.lv" width="100%" />
+                <iframe class="landing-body__iframe" height="450" src="https://da36438cdc43.ngrok.io" width="100%" />
               </div>
             </li>
             <li className={css.section}>
