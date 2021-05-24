@@ -33,7 +33,7 @@ const defaultDirectives = {
     '*.stripe.com',
   ],
   fontSrc: [self, data, 'assets-sharetribecom.sharetribe.com', 'fonts.gstatic.com'],
-  frameSrc: [self, '*.stripe.com', '*.atvertalatvija.manabalss.lv'],
+  frameSrc: [self, '*.stripe.com', '*.atvertalatvija.manabalss.lv', '*.ngrok.io'],
   imgSrc: [
     self,
     data,
