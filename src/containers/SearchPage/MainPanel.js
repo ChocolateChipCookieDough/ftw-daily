@@ -321,7 +321,7 @@ class MainPanel extends Component {
               </h2>
             ) : null}
 
-            <iframe class="landing-body__iframe" height="450" src="https://da36438cdc43.ngrok.io" width="100%" />
+            <iframe class="landing-body__iframe" height="450" src="https://widget.atvertalatvija.manabalss.lv" width="100%" />
 
             <SearchResultsPanel
               className={css.searchListingsPanel}
